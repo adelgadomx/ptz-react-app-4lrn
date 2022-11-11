@@ -1,0 +1,25 @@
+{
+  "name": "ptz-react-app-4lrn",
+  "version": "1.0.0",
+  "description": "React app for learning basics, eshop theme",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelgadomx/ptz-react-app-4lrn.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "eshop",
+    "basics"
+  ],
+  "author": "Antonio Delgado <adelgado.mx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adelgadomx/ptz-react-app-4lrn/issues"
+  },
+  "homepage": "https://github.com/adelgadomx/ptz-react-app-4lrn#readme"
+}
